@@ -1,0 +1,13 @@
+@import 'libs/bootstrap-reboot.min';
+@import 'libs/fonts';
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    max-width: 1116px;
+    margin: 0 auto;
+}
+
+@import 'base/media';
